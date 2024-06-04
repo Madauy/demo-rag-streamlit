@@ -1,0 +1,9 @@
+streamlit
+llama-index
+llama-index-llms-cohere
+llama-index-embeddings-cohere
+llama-index-vector-stores-qdrant
+llama-index-postprocessor-cohere-rerank
+llama-index-llms-anthropic
+qdrant-client
+fastembed
